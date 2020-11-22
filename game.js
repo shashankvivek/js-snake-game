@@ -25,6 +25,6 @@ function update(){
 }
 
 function draw(){
-    drawSnake()
+    drawSnake(gameBoard);
 }
 
